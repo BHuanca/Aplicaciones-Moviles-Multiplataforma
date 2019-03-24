@@ -1,0 +1,13 @@
+Instalacion y configuracion de ReactJS
+
+ 2.3 Imagen -> img1.jpg
+ 
+ Uso de props en componentes
+ 
+ 3.1 Imagen -> img2.jpg
+ 3.6 Imagen -> img3.jpg
+
+ States del componente
+
+ 5.6 Imagen -> img4.jpg
+
