@@ -13,5 +13,20 @@ Instalacion y configuracion de ReactJS
 
 Tarea
 
+ Proyecto: Lab02 - proyectos -> tarealab02
  Imagen -> img5.jpg
+
+Concluciones
+
+ 1. Si queremos restaurar un proyecto, solo debemos poner npm install
+ 2. Podemos usar "npm run eject" para ver la configuracion de react, pero debemos tener cuidado en
+    modificar algunos elementos
+ 3. Si queremos sacar datos de un input, button, etc, debemos crear primero una variable donde estara almacenado
+    esos datos
+ 4. La carpeta public contendra todas las imagenes, arhcivos, etc que queramos ya que aqui se tendra acceso
+    a dichos archivos
+ 5. Si queremos cambiar el puerto tendremos que ir a la siguiente ruta: node_modules/react-scripts/scripts/start.js 
+    y dentro de este archivo, buscar: var DEFAULT_PORT y cambiarlo por el que nosotros queramos
+
+
 
