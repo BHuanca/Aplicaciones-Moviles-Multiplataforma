@@ -11,3 +11,7 @@ Instalacion y configuracion de ReactJS
 
  5.6 Imagen -> img4.jpg
 
+Tarea
+
+ Imagen -> img5.jpg
+
