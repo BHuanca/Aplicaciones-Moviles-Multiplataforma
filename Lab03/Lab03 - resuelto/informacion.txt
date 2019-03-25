@@ -1,0 +1,12 @@
+Instalación y configuración de ReactJS 
+ Estructura del proyecto
+
+  3.10 Imagen -> img1.jpg
+
+Concluciones
+
+ 1. Chocolatejs es un framework construido en nodejs con el que podemos empezar hacer nuestras aplciaciones
+ 2. Para poder usar react, necesitamos los drivers y las sdk de android studio o de otro programa
+ 3. Si android studio no configuro las variables de entorno, nosotros podemos hacerlo de forma manual
+ 4. React es muy parecido al html, por lo cual nosotros podemos desarrollarlo sin ninguna dificultad
+ 5. Si queremos agregar un imagen u otro componente, debemos importar y declarlo para que funcione 
