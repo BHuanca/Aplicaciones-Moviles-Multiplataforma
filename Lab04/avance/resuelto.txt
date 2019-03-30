@@ -1,0 +1,7 @@
+vysor programa para ver el cellular
+licecap-programa para ver el gif
+
+Configuracion de proyecto
+
+ 3.4 Imagen de los botones con los contadores aumentar o disminuir: img1.png
+ 4.2 
