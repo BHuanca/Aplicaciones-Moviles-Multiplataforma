@@ -12,7 +12,7 @@ class Contador extends Component {
   }
 
   componentDidUpdate(oldProps, oldState) {
-    console.warn(oldProps + "------------------------------------------------");
+    //console.warn(oldProps + "------------------------------------------------");
     if(oldProps.valor!==this.props.valor && !isNaN(this.props.valor)) {
       this.setState({
         valor:this.props.valor

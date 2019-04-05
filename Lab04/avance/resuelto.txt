@@ -4,4 +4,17 @@ licecap-programa para ver el gif
 Configuracion de proyecto
 
  3.4 Imagen de los botones con los contadores aumentar o disminuir: img1.png
- 4.2 
+ 5.3 Imagen de los contadores aumentados: img2.png
+
+Ejercicio Propuesto
+ 6.1 Nombre del proyecto: calcu
+ 6.2 Imagen: img3.png
+
+Concluciones
+ 1. Si queremos agregar un label, input, etc, tenemos que importar dicho elemento para poder usarlo
+ 2. Se puede poner varios componentes y cada uno de ellos trabajara de forma independiente a la otra
+ 3. Para que funcione cada boton debe tener un handler la cual estara su accion a realizar
+ 4. Para modificar bien un componente, se tiene que saber el ciclo de vida de este, ya sea para agregar,
+    actualizar o eliminar
+ 5. Se puede poner una condicional antes de que se ejecute los componentes para ver si los datos son correctos
+
