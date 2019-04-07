@@ -1,0 +1,31 @@
+Configuracion de proyecto
+
+ 1.10 Error imagen: img1.png -> Este error se produce ya que no estamos llamando al componente "HomeSreen"
+ 
+Configuracion por defecto
+ 
+ 3.1 Gif: captura1.gif
+ 3.4 Gif: captura2.gif
+
+Parametros en ruta
+ 
+ 4.3 Gif: captura3.gif
+ 4.4 Gif: captura4.gif
+
+Ejercicio propuesto
+ 
+ Proyecto: /proyectos/listPeli
+ 5.1 Gif: TareaCaptura.gif
+
+Concluciones
+
+ 1. Navigation nos permite movernos entre vistas de una forma muy facil, solo poniendo props.navigation.navigate("vista")
+ 2. Podemos crear varias vistas en el inicio("App.js") pero se veria desordenado, por eso es recomendable crear una carpeta
+    a parte para poner todos esos screens
+ 3. Nostros podemos declarar un objeto o llamar directamente al componente, pero el otro nos permite configurar las opciones
+    que tiene de forma mas facil
+ 4. En navigation existe las configuraciones por defecto que tendran todas las vistas, estas las podemos modificar si queremos
+    que todas sean iguales
+ 5. Para pasar parametros de una vista a otra solo debemos llamar a la vista a pasar con la clave del elmento y dicha vista
+    tiene que coger ese elemento con su misma key
+
