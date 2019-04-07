@@ -1,0 +1,31 @@
+Configuracion de proyecto
+ 
+ 1.3 Gif: captura1.gif
+ 1.4 Gif: captura2.gif
+ 
+ 2. Listados en React Native
+    
+    2.2 Gif: captura3.gif
+    2.3 Gif: captura4.gif
+    2.4 Imagen: img1.png
+    2.5 Gif: captura5.gif
+    2.7 Gif: captura6.gif
+
+Axios
+ 
+ 3.4 Gif: captura7.gif
+
+Ejercicio propuesto
+
+ 4.1 Gif: TareaCaptura.gif
+
+Concluciones
+ 
+ 1. La funcion setInterval nos puede servir de muchas formas, si queremos que una funcion se ejecute cada cierto tiempo
+ 2. Los FlatList trabajan como un diccionario ya que estos deben tener una llave, ademas nos sirven mucho para hacer una
+    lista de datos de una manera facil
+ 3. Se puede hacer una condicion cuando declaramos un estilo para asi reducir lineas de codigo
+ 4. Axios nos permite interceptar y cancelar las diferentes solicitudes, en este laboratiorio nosotros utilizamos el GET
+    para el JSON de dicho url
+ 5. Ademas para la espera nosotros pusimos un loading con false y cuando este cargado completamente, se cambiara con un true
+    y procedera a ejecutar lo resto
