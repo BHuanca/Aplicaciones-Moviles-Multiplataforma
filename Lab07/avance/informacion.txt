@@ -1,0 +1,31 @@
+Pantalla de carga y navegacion Basica
+
+ 2.5 Comprobacion del funcionamiento de la aplicacion
+     - Imagen: img1.png
+
+Pantalla de Inicio
+
+ 3.5 Imagen de como se ve la aplicacion
+     - Imagen: img2.png
+
+Conexion con API
+
+ 4.3 Captura: img3.png
+
+Acomodacion automatica
+ 
+ 5.2 Captura: img4.png
+
+Ejercicio propuesto
+
+ 6.1 Captura: img5.png
+
+Concluciones
+
+ 1. Las inconos utilizados en este laboratorio fueron los de ionic, ademas de que agregamos otros estilos para que
+    se vea mejor
+ 2. La ip de axios tiene que ser igual a la de nuestra computadora, para ello podemos ponerla abriendo el cmd y
+    escribiendo ipconfig
+ 3. Para conectarnos a un API en axios, necesitamos psarle el metodo, la url y los datos a pasar
+ 4. Para cambiar de vista a vista utilizamos el this.props.navigatios.navigate
+ 5. Mayormente en este laboratorio se vieron los puntos de la interfaz agregando imagenes, colores y componentes
