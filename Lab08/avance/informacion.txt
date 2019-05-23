@@ -1,0 +1,23 @@
+2. Configuracion de proyecto
+    2.4 Captura de que se conecto correctamente: img1.jpg
+    2.7 Mensaje en la consola: img2.jpg
+
+3. Creacion de vista para Chat
+    3.7 Captura del chat: img3.png
+
+4. Ejercicio Propuesto
+   4.1 Captura: img4.png
+   5.2 Captura: img5.png
+
+Concluciones
+    1. Para enviar un mensaje y recivirlo, necesitamos un servidor y cliente, por eso instalamos 
+       socket.io y socket.io-cliente
+    2. Una gran ayuda es utilizar react-native log-android, ya que aqui nos mostrara los errores
+       que tiene nuestra aplicacion
+    3. Para hacer el chat, necesitamos almacenar el chat enviado, por eso creamos las funcion
+       _storeMessages que nos almacenara estos mensajes cada vez que se envie
+    4. GiftedChat necesita pocas propiedades basicas para poder armar un chat como: messages, 
+       onSend o user, este ultimo declaramos sus propiedades en la variable user como el id, fecha
+       de modificacion o incluso su avatar
+    5. Modal nos permite crear una capa sobrespuesta al chat, esto nos sirve si queremos crear opciones
+       sin tener que crear otra vista
