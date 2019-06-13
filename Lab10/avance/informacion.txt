@@ -1,0 +1,18 @@
+3. Obtencion de permisos de Geo Localizacion
+    3.1 Captura del permiso: img1.png
+    3.1 Captura del mapa: img2.png
+
+Boton flotante
+    6.3 Captura de los estilos: img3.png
+
+Concluciones
+    1. Floating action nos permite crear botones flotante en nuestro view, estos pueden ser customizados
+       y podemos darle funciones, en este caso el de abri, compartir o cancelar
+    2. Para poder utilizar el mapa, necesitamos tener un API que nos proporciona google, para ellos debemos
+       tener una cuenta y crear un API google maps
+    3. Para que podamos mostrar el mapa, debemos pasarle las dimenciones de nuestro dispositivo para que los
+       ponga en pantalla completa, por ello creamos una formula para que lo calculo automaticamente
+    4. Debemos darle permisos para poder acceder al mapa y tener la "ubicacion" activa para que nos debe la 
+       latitud y longitud donde estemos y mostrarlo en el mapa
+    5. ionicons nos ofrece una gran variedad de iconos como user, compartir, password, etc por ello es muy
+       util importarlo en nuestro proyecto
