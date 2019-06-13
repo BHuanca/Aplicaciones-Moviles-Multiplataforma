@@ -1,0 +1,17 @@
+Creacion de componentes de Camara
+    3.2 Foto de los permisos: img1.png
+
+Subiendo la imagen a nuestro servidor
+    4.2 Captura de la imagen subida: img2.jpg
+
+Concluciones
+    1. Con multer nosotros podemos manejar los archivos que iremos subiendo, en este caso
+       utilizamos imagenes
+    2. Para que utlizemos la camara, necesitamos darle permisos a la aplicacion esto se hace
+       agregando la funcion androidCameraPermissionOptions en el caso de android
+    3. Una vez que el usuario acepto los permisos, recien se podra ver la camara, en caso
+       contrario no se podra acceder a ella
+    4. Se puede configurar el boton para sacar foto usando el PendingView y agregando un
+       TouchableOpacity
+    5. En este laboratorio se pudo guardar la foto en el API pero aun asi salia errores en
+       la aplicacion y sin extencion
