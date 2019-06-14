@@ -1,0 +1,21 @@
+2. Configuracion de nuevas vistas
+    2.1 Captura del SideMenu: img1.png
+
+3. Vista de inicio
+    3.6 Captura de la vista: img2.png
+
+4. Vista de Perfil de Usuario
+    4.5 Captura del perfil de usuario: img3.png
+    4.6 Caputra del perfil editar: img4.png
+
+Concluciones
+    1. Como el avatar trabaja con la ecriptacion md5, necesitamos instalarla para poder usarla
+    2. Es posible configurar las dimensiones de un elemento importanto Dimensions propio de react native,
+       ademas se puede cambiar los colores y todo lo demas
+    3. Cada componente los podemos colocar de la manera que queramos, por ejemplo en el caso de la vista 
+       principal colocamos el ScriView y dentro la imagen, un view para contener los iconos y otro mas para
+       los 2 faltantes
+    4. Para sacar el icono del avatar tenemos que guardar el correo del que inicio sesion por eso usamos
+       el localStorage para almacenarlo ahi
+    5. Cuando no tenemos internet el icono se queda cargando en busca de un email y no aparece nada salvo
+       pulsaciones, como un loading
