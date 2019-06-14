@@ -1,0 +1,19 @@
+2. Vista de Configuracion
+    Captura de la interfaz: img1.png
+
+3. Listado con paginacion
+    Captura del resultado: img2.png
+
+4. Ejercicio propuesto
+    4.1 Por hacer
+
+Concluciones
+    1. La herramienta settings-list nos permite tener todas las configuraciones posibles para crear
+       una lista
+    2. Con fetch nos permite llamar a una API colgada en internet, ademas si esta en JSON lo podemos
+       leer con la funcion response.JSON
+    3. Dentro de serverData obtenemos los datos, ademas dicha funcion tiene un catch para capturar los
+       errores que genere en la llamada
+    4. Con renderItem podemos obtener los datos de dicha API, en el caso de title usamos toUpperCase 
+       para convertir el texto en mayusculas
+    5. Lo demas son simples estilso que haran ver mejor a la aplicacion
